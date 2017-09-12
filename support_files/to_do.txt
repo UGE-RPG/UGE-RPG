@@ -1,0 +1,33 @@
+mission statement - on front page of website - done
+web site - bitbucket??
+translation project website
+discussion software - discus??
+licences - cc-by-sa, cc-by-nc, mpl ???
+project overview docment - is this part of mission statment? check with book
+design document(s) - rpg, ruleset ???
+how to use git, gitkracken, trannslation site
+coding standards document
+url for uge-rpg.org (and maybe ubergame.org ???)
+must state project is open source (on front page of website) - partialy done (in mission statment)
+features & requirements list - software and pdf
+roadmap ???
+anouncements/news ???
+bugs files/fixed in the last 30 days ???
+num discussion forum threads ???
+bug tracker - via bitbucket???
+how to submit a bug / feature request - document
+mailing lists (or is this discus) - & hosting ???
+developer guidlenes document - is this / includes the coding standards & others ??? - yes (i think) - see p19
+	(http://subversion.apache.org/docs/community-guide/ &
+	https://wiki.documentfoundation.org/Development)
+Code of conduct ???
+markdown cheetsheet
+who we need document - maybe linked in to soemthing else, maybe overview document
+FAQ
+Acknowledgements document - done
+
+
+We want to keep the source code free for use by anybody, therefore it is important that you mail (please use Subject: <your name> license statement) a license statement to libreoffice@lists.freedesktop.org with the text:
+
+   All of my past & future contributions to LibreOffice may be
+   licensed under the MPLv2/LGPLv3+ dual license.

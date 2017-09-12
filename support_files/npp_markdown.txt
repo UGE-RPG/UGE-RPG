@@ -1,0 +1,5 @@
+Step 1: Download this language file. https://github.com/Edditoria/markdown_npp_zenburn/archive/master.zip
+
+Step 2: From the Default Theme folder copy the userDefineLang.xml file and paste it in the NotePad++ folder.
+
+Restart Notepad++ and you can select Markdown from the bottom of the language menu.
