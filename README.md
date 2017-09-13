@@ -17,7 +17,7 @@ To discover the Project's Contributors and other people and organisatins who are
 
 ## Where Are The Manuscripts, Rulesets, Extensions and Modules?
 
-Public ready releases of the Manuscripts (.pdf), Rulesets (.pak), Extensions (.ext) and Modules (.mod) can be found in the **releases** folder (when we have something to release).
+Public-ready releases of the Manuscripts (.pdf), Rulesets (.pak), Extensions (.ext) and Modules (.mod) can be found in the **releases** folder (when we have something to release).
 
 ## How To Report A Bug, Offer A Suggestion Or Help Out Without Becoming A Contributor
 
@@ -25,7 +25,7 @@ You may want to help us out by reporting a bug or in some other way but you don'
 
 ## How To Contribute
 
-If you are interested in helping out then please see our [**How To Contribute**](https://github.com/UGE-RPG/master/blob/master/project_documentation/How_To_Contribute.md) file. The Project needs all sorts of people with all sorts of skills: Artists, Cartographers, Rules Developers, Programmers, Editors, Proofreaders, Translators, Testers, Lawyers - you name it, we need it! So please, come and join us and help leave your mark on the RPG Hobby.
+If you are interested in helping out then please see our [**How To Contribute**](https://github.com/UGE-RPG/master/blob/master/project_documentation/How_To_Contribute.md) document. The Project needs all sorts of people with all sorts of skills: Artists, Cartographers, Rules Developers, Programmers, Editors, Proofreaders, Translators, Testers, Lawyers, Publishers - you name it, we need it! So please, come and join us and help leave your mark on the RPG Hobby.
 
 ## Frequently Asked Questions (FAQ)
 

@@ -1,8 +1,5 @@
 translation project website
 discussion software - discus??
-design document(s) - rpg, ruleset ???
-how to use git, gitkracken, trannslation site
-coding standards document
 url for uge-rpg.org (and maybe ubergame.org ???)
 features & requirements list - software and pdf
 roadmap ???
@@ -15,8 +12,7 @@ mailing lists (or is this discus) - & hosting ???
 developer guidlenes document - is this / includes the coding standards & others ??? - yes (i think) - see p19
 	(http://subversion.apache.org/docs/community-guide/ &
 	https://wiki.documentfoundation.org/Development)
-Code of conduct ???
-markdown cheetsheet
+
 
 
 We want to keep the source code free for use by anybody, therefore it is important that you mail (please use Subject: <your name> license statement) a license statement to libreoffice@lists.freedesktop.org with the text:
