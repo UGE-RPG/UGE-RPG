@@ -1,5 +1,5 @@
 # Welcome to the UGE-RPG Project.
-![UGE-RPG Symbol](https://github.com/UGE-RPG/UGE-RPG/blob/master/support_files/übersymbol.png)
+![UGE-RPG Symbol](https://github.com/UGE-RPG/UGE-RPG/blob/master/support_files/übersymbol_medium.png)
 
 *A FOSD/FOSS Project to develop a truly universal Modular, Pluggable RPG-Framework for a Traditional Role-Playing Game and Game-Engine.*
 
