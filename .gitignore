@@ -2,3 +2,5 @@
 *.ffs_db
 
 Cleanup\.bat
+
+*.backup

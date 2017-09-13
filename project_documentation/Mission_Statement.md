@@ -1,4 +1,5 @@
 # Mission Statement (0.1)
+
 The Übergame Engine Role-Playing Game (UGE-RPG) Project is a combined FOSD (Free Open Source Document) and FOSS (Free Open Source Software) Project with the aim of producing a truly universal Modular, Pluggable RPG-Framework that will allow Gamers to play in any Setting, Time and/or Genre of game using the same RPG-Engine.
 
 The UGE-RPG Project has four primary goals:
@@ -17,4 +18,4 @@ Secondary goals include the development of versions of the Übergame for use wit
 
 ![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png "Creative Commons License")
 
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License.](http://creativecommons.org/licenses/by-sa/4.0/)
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License.](https://creativecommons.org/licenses/by-sa/4.0/)
