@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!--
+This Source Code Form is subject to the terms of the Mozilla Public
+License, v. 2.0. If a copy of the MPL was not distributed with this
+file, You can obtain one at https://mozilla.org/MPL/2.0/.
+-->
+<root version="3.1" release="0.1" logo="übersymbolsmall.png">
+	<description>
+		<text>UGE-RPG Ruleset</text>
+		<author>Copyright ©2017 The UGE-RPG Project</author>
+		<website>https://github.com/UGE-RPG/UGE-RPG</website>
+	</description>
+	<importinfo>
+		<acceptfrom ruleset="UGE-RPG" />
+	</importinfo>
+	<announcement text="UGE-RPG Ruleset v0.1\nFor Fantasy Grounds 3.3.3+\nCopyright ©2017 The UGE-RPG Project" font="emotefont" icon="iUGERPGRulesetIcon" />
+	<importruleset source="DORCore" />
+	<includefile source="graphics/graphics_icons.xml" />
+	<includefile source="strings/UGE-RPG_Strings.xml" />
+	<script name="RulesetOptions" file="lsRulesetOptions.lua" />
+</root>

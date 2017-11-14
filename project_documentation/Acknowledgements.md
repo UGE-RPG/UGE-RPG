@@ -1,8 +1,10 @@
-# Acknowledgements (0.1)
+# Acknowledgements
+
+Version 1.0.0
 
 The following people and organisations have contributed to this Project. All are gratefully acknowledged and thanked.
 
-## Project Founders
+## Project Founder
 
 Matthew J Black
 
@@ -22,7 +24,7 @@ Nicola Below
 
 Special thanks goes to the following:
 
-Doug Davidson, John Gregory & the rest of the staff at SmiteWorks.
+Doug Davidson, John Gregory and the rest of the staff at SmiteWorks LLC (www.fantasygrounds.com and www.smiteworks.com).
 
 All of the people who submitted ideas, bug reports and feature requests and who helped the Project in other ways too numerous to mention.
 

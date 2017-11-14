@@ -1,4 +1,6 @@
-# Non-Contributor Help (0.1)
+# Non-Contributor Help
+
+Version 0.1
 
 [To Be Completed]
 

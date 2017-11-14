@@ -1,4 +1,6 @@
-# LICENSE (0.1)
+# LICENSE
+
+Version 0.1
 
 ## Source Code
 

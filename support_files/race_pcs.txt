@@ -1,0 +1,55 @@
+Dwarf
+-----
+infravison
+speed not reduced under load
+stonecunning (feat?)
++2 vs poison
++2 vs spells
++1 att vs greenskins
++4 dodge bonus vs giants
++4 stability bonus
++2 appraise & craft (stone(see stone cunning) or metal)
+weapon famil???
+
+Elf
+---
+imune sleep spells
++2 vs encantment
+low-light
+weapon prof 3
++2 listen, search, spot
+secret doors
+
+Half-Elf
+--------
+As Elf except
++1 listen, search, spot
++2 diplomacy, gather info
+
+Gnome
+-----
+low-light
+weapon famil???
++2 vs illusions
++1 dc against gnomes illusions
++1 vs kobolds and greenskins
++4 dodge vs giants
++2 listen, alchemy
+
+halfling
+--------
+save
++2 climb, jump, move silent, listen
++1 saves
++2 vs fear
++1 thrown weapons & slings
+
+half-orc
+--------
+darkvision
+
+human
+-----
+extra feat
+4 skill points
++1 skill point/lv

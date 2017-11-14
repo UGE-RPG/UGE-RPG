@@ -1,4 +1,6 @@
-# File Locations (0.1)
+# File Locations
+
+Version 1.0.0
 
 The Project is broken up into a number of folders to help both us and you locate the relevant information quickly and efficiently.
 
