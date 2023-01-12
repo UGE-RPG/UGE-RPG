@@ -7,7 +7,7 @@
 
 ## README
 
-Version 1.0.0
+Version 1.1.0
 
 We're just getting started, so please bear with us as we develop the Project and its Documentation.
 
@@ -48,7 +48,7 @@ Enter your email address: <input type="text" name="email">
 
 ## Where Are The Manuscripts, Rulesets, Extensions and Modules?
 
-Public-ready releases of the Manuscripts (`.pdf`), Rulesets (`.pak`), Extensions (`.ext`) and Modules (`.mod`) can be found in the **releases** folder (when we have something to release).
+Public-ready releases of the Manuscripts (`.pdf`), VTT Game Systems, etc, can be found in the **releases** folder (when we have something to release).
 
 ## A Living Project
 
