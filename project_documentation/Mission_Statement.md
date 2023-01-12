@@ -1,6 +1,6 @@
 # Mission Statement
 
-Version 1.0.0
+Version 1.1.0
 
 The Übergame Engine Role-Playing Game (UGE-RPG) Project is a combined FOSD (Free Open Source Document) and FOSS (Free Open Source Software) Project with the aim of producing a truly universal Modular, Pluggable RPG-Framework that will allow Gamers to play in any Setting, Time and/or Genre of game using the same RPG-Engine.
 
@@ -10,7 +10,7 @@ The UGE-RPG Project has four primary goals:
 
 2. To develop consistent and highly detailed Settings, Rules Modules and Adventures for use with the RPG-Framework and RPG-Engine (the UGE).
 
-3. To develop the UGE, Settings, Rules Modules and Adventures (the Übergame) to work as closely as possible with the Fantasy Grounds&trade; Virtual Tabletop (FG VTT) software by also developing a set of compatible Ruleset, Extensions and Modules (REMs). The UGE and the UGE-REMs should work together seamlessly, providing the Gamers who use our products the best of both Tabletop and Virtual Tabletop worlds.
+3. To develop the UGE, Settings, Rules Modules and Adventures (the Übergame) to work as closely as possible with the Foundry Virtual Tabletop (FVTT) software by also developing a set of compatible Game Systems and other, similar FVTT artifacts. The UGE and UGE-artifacts should work together seamlessly, providing the Gamers who use our products the best of both Tabletop and Virtual Tabletop worlds.
 
 4. To develop as many different Language Translations of the Übergame (both Tabletop and VTT) as possible. This will help ensure that the Übergame is truely universal in not only its scope but also in its usage.
 
