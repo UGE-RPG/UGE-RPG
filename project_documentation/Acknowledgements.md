@@ -1,6 +1,6 @@
 # Acknowledgements
 
-Version 1.0.0
+Version 1.1.1
 
 The following people and organisations have contributed to this Project. All are gratefully acknowledged and thanked.
 
