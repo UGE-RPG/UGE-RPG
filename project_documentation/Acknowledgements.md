@@ -24,8 +24,6 @@ Nicola Below
 
 Special thanks goes to the following:
 
-Doug Davidson, John Gregory and the rest of the staff at SmiteWorks LLC (www.fantasygrounds.com and www.smiteworks.com).
-
 All of the people who submitted ideas, bug reports and feature requests and who helped the Project in other ways too numerous to mention.
 
 ---
